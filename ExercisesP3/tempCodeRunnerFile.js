@@ -1,0 +1,1 @@
+console.log(readFile("input.txt"));
